@@ -4,7 +4,7 @@ current: post
 cover:  /assets/images/2017_11_logo_jesuitinas_ss.jpg
 
 navigation: True
-title: Jesuitinas Sam Sebastian
+title: Jesuitinas San Sebastian
 date: 2017-07-27 10:00:00
 tags: [El colegio]
 class: post-template
