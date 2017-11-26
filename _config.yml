@@ -9,15 +9,17 @@ baseurl: /
 
 # Website info
 
-title: JesuitinasKE
+title: PEPE
 description: Proyecto deportivo de Padres de Jesuitinas Donostia
 #cover: assets/images/blog-cover.jpg
 cover: assets/images/2017_11_campo_futbol.jpg
 
 #logo: assets/images/blog-icon.png
-logo: assets/images/2017_11_logo_jesuitinas_ke.jpg
+#logo: assets/images/2017_11_logo_jesuitinas_ke.jpg
 
-logo_dark: assets/images/favicon.png
+#logo_dark: assets/images/favicon.png
+logo_dark: assets/images/2017_11_campo_futbol.jpg
+
 favicon: assets/images/favicon.png
 production_url: https://jesuitinaske.github.io/
 source_url: https://github.com/jesuitinaske
