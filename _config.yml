@@ -8,9 +8,13 @@ language: 'en-uk'
 baseurl: /
 
 # Website info
+
+name: Jesuitinas-KE
 title: JesuitinasKE
 description: Proyecto deportivo de Padres de Jesuitinas Donostia
-cover: assets/images/blog-cover.jpg
+#cover: assets/images/blog-cover.jpg
+
+cover: assets/images/2017_11_campo_futbol.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
