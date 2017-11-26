@@ -4,7 +4,7 @@ current: post
 cover:  /assets/images/2017_11_equipo_v01.jpg
 
 navigation: True
-title: El primer Equipo
+title: We have a dream
 date: 2017-11-26 10:00:00
 tags: [Equipo v1.0]
 class: post-template
