@@ -16,6 +16,5 @@ categories: ghost
 Listado de empresas Patrocinadoras y Colaboradoras con Jesutinas KE
 
 
-#<p> <a href="http://www.troquelestag.com/es/inicio">TAG Troqueles Artes Gráficas</a></p>
-#<p><a href="http://www.troquelestag.com/es/inicio"><img src="/assets/images/2017_11_tag.jpg" alt="TAG"></a></p>
+
 
