@@ -16,7 +16,7 @@ categories: ghost
 TAG patrocinador oficial de Jesuitinas-KE. es un referente en la producción de troqueles con más de 25 años de trayectoria.
 
 
-<p> <a href="http://www.troquelestag.com/es/inicio">TAG Torqueles Artes Gráficas</a></p>
+<p> <a href="http://www.troquelestag.com/es/inicio">TAG Troqueles Artes Gráficas</a></p>
 <p><a href="http://www.troquelestag.com/es/inicio"><img src="/assets/images/2017_11_tag.jpg" alt="TAG"></a></p>
 
 
