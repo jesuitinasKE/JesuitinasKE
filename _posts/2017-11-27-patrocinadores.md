@@ -16,5 +16,5 @@ categories: ghost
 Listado de empresas Patrocinadoras y Colaboradoras con Jesutinas KE
 
 
-POner logos y webs etc
+Poner logos y webs etc.
 
