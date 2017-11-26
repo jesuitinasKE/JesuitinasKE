@@ -4,7 +4,7 @@ current: post
 cover:  /assets/images/2017_11_multideporte.jpg
 
 navigation: True
-title: Hola JesuitinasKE
+title: Proyecto Jesuitinas KE
 date: 2017-07-27 10:00:00
 tags: [Acerca del Proyecto]
 class: post-template
