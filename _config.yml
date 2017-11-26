@@ -5,7 +5,7 @@ paginate: 100 # it will paginate after this number
 language: 'en-uk'
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper2/
+baseurl: /
 
 # Website info
 title: JesuitinasKE
@@ -27,7 +27,7 @@ facebook: ghost # replace by your username
 
 # Disqus
 disqus: False
-disqus_name: myjekyll # replace by your username
+disqus_name: Jesuitinas # replace by your username
 
 # Google Analytics
 # google_analytics: UA-69281367-1 # replace by your GA id
