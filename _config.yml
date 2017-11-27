@@ -40,7 +40,7 @@ disqus: False
 disqus_name: Jesuitinas # replace by your username
 
 # Google Analytics
-# google_analytics: UA-69281367-1 # replace by your GA id
+google_analytics: UA-110276723-1 # Este es el ID de JesuitinasKE.github.io para Google Analitics
 
 # Permalinks
 permalink: /:title
