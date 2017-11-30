@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  /assets/images/2017_11_equipo_v01.jpg
+cover:  /assets/images/2017-11-30-jesuitinas-azpeitia-cup.jpg
 
 navigation: True
 title: Tornero de Navidades
