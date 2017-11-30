@@ -20,3 +20,7 @@ El torneo alevín masculino se divide en dos fases. Una primera Fase Clasificato
 
 Cuando quedan solamente 3 días para poder apuntarse a la Fase Clasificatoria, la lista de clubs sigue aumentando y ayer mismo fueron otros 3 equipos de fútbol los que se inscribieron para el torneo, el Barrika, el Kostkas y el Real Unión de Irun. Con estos ya se supera la barrera de los 40 equipos inscritos para la Fase Clasificatoria.
 
+
+![JesuitinasKE Azpeitia Cup](/assets/images/2017-11-30-fase-clasificacion-azpeitia-18.jpg)
+
+Jesuitinas KE es uno de los equipos que se presenta este año al campeonato de Azpeitia Cup 2018.
