@@ -1,15 +1,15 @@
 ---
 layout: post
 current: post
-cover:  /assets/images/2017-11-30-jesuitinas-azpeitia-cup.jpg
+cover:  /assets/images/2017_12_01_campo_hierba.jpg
 
 navigation: True
-title: Tornero de Navidades
-date: 2017-11-30 10:00:00
+title: Torneo de Navidades
+date: 2017-10-01 10:00:00
 tags: [Azpeitia Cup]
 class: post-template
 subclass: 'post tag-getting-started'
-author: Txema
+author: Angel
 categories: ghost
 ---
 
