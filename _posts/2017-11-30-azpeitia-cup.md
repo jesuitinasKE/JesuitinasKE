@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  /assets/images/2017_12_01_campo_hierba.jpg
+cover:  /assets/images/2017_12_01_Cartel.jpg
 
 navigation: True
 title: Torneo de Navidades
