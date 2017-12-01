@@ -5,7 +5,7 @@ cover:  /assets/images/2017_12_01_campo_hierba.jpg
 
 navigation: True
 title: Torneo de Navidades
-date: 2017-10-01 10:00:00
+date: 2017-12-01 10:00:00
 tags: [Azpeitia Cup]
 class: post-template
 subclass: 'post tag-getting-started'
