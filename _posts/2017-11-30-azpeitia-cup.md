@@ -4,7 +4,7 @@ current: post
 cover:  /assets/images/2017_12_01_Cartel.jpg
 
 navigation: True
-title: Torneo de Navidades
+title: Torneo de la Amistad
 date: 2017-12-01 10:00:00
 tags: [Azpeitia Cup]
 class: post-template
