@@ -24,3 +24,5 @@ Cuando quedan solamente 3 días para poder apuntarse a la Fase Clasificatoria, l
 ![JesuitinasKE Azpeitia Cup](/assets/images/2017-11-30-fase-clasificacion-azpeitia-18.jpg)
 
 Jesuitinas KE es uno de los equipos que se presenta este año al campeonato de Azpeitia Cup 2018.
+
+<p> <a href="https://www.azpeitiacup.com/es/">Azpeitia CUP</a></p>
