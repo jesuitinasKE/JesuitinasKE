@@ -13,7 +13,9 @@ author: Txema
 categories: ghost
 ---
 
-TAG patrocinador oficial de Jesuitinas-KE. es un referente en la producción de troqueles con más de 25 años de trayectoria.
+TAG patrocinador oficial de Jesuitinas-KE.
+
+Referente en la producción de troqueles con más de 25 años de trayectoria.
 
 
 <p> <a href="http://www.troquelestag.com/es/inicio">TAG Troqueles Artes Gráficas</a></p>
