@@ -1,10 +1,10 @@
 ---
 layout: post
 current: post
-cover:  /assets/images/2017_11_equipo_v01.jpg
+cover:  /assets/images/6D117270-EA9D-4668-BE5A-022FF122CE11.jpeg
 
 navigation: True
-title: We have a dream
+title: "We have a dream"
 date: 2022-11-26 10:00:00
 tags: [Equipo v1.0]
 class: post-template
