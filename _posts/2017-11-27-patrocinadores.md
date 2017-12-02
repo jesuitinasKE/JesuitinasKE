@@ -9,12 +9,13 @@ date: 2017-07-27 10:00:00
 tags: [Patrocinadores]
 class: post-template
 subclass: 'post tag-getting-started'
-author: Txema
+author: Angel
 categories: ghost
 ---
 
 Listado de empresas Patrocinadoras y Colaboradoras con Jesutinas KE
 
+"Gracias a todas ellas por ayudarnos a realizar un sueńo"
 
-Poner logos y webs etc.
+
 
