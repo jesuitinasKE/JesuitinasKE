@@ -33,7 +33,7 @@ subscribers: True # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
 twitter: jesuitinaske # replace by your username
-facebook: jesuitinaske@gmail.com # replace by your username
+facebook: https://m.facebook.com/profile.php?id=100023280699893&ref=content_filter # replace by your username
 
 # Disqus
 disqus: False
