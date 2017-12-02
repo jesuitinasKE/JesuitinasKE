@@ -19,4 +19,4 @@ Listado de empresas Patrocinadoras y Colaboradoras con Jesutinas KE
 
 <p> <a href="http://www.troquelestag.com/es/inicio">TAG Troqueles Artes Gráficas</a></p>
 
-<p> <a href="http://www.dadoges.com/default.html">Dadoges</a></p>
+<p> <a href="http://www.dadoges.com/default.html">DadoGES</a></p>
