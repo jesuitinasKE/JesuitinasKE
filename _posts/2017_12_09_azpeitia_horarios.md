@@ -5,8 +5,8 @@ cover:  /assets/images/2017_12_09_horarios.JPG
 
 navigation: True
 title: Horarios del Torneo
-date: 2017-12-09 11:00:00
-tags: [Azpeitia Cup, HORARIOS]
+date: 2017-12-10 11:00:00
+tags: [Azpeitia Cup]
 class: post-template
 subclass: 'post tag-getting-started'
 author: Txema
