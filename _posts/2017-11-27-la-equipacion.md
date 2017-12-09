@@ -15,10 +15,10 @@ categories: ghost
 
 Gracias a la colaboración de Patrocinadores colaboradores y padres hemos realizado unas equipaciones necesarias para poder competir.
 
-| Equipación   |      Foto delantera      |  Foto trasera |  Notas |
+| Equipación   |      Foto      |    Notas |
 |----------|-------------|------|
-| Entrenamiento |  Pendiente | Pendiente | Camiseta en color negro |
-| Primera equipación |    Pendiente   |   Pendiente | Camiseta y medias azules, pantalón Blanco |
-| Segunda equipación |    Pendiente  |  Pendiente  | Pendiente |
-| Portero nº 1 |    Pendiente  |  Pendiente  | Pendiente |
-| Portero nº 13 |    Pendiente  |  Pendiente  | Pendiente |
+| Entrenamiento |  Pendiente |  Camiseta en color negro |
+| Primera equipación |    ![Primera equipacion](/assets/images/2017_12_09_equicacion1.JPG)   |    Camiseta y medias azules, pantalón Blanco |
+| Segunda equipación |    Pendiente  |   Pendiente |
+| Portero nº 1 |     ![Primera equipacion](/assets/images/2017_12_09_equicacion_p1.JPG)   |   Equipación negra y amarilla |
+| Portero nº 13 |    ![Primera equipacion](/assets/images/2017_12_09_equicacion_p13.JPG)   |   Equipación verde y negra |
