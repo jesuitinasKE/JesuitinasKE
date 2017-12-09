@@ -20,4 +20,5 @@ Gracias a la colaboración de Patrocinadores colaboradores y padres hemos realiz
 | Entrenamiento |  Pendiente | Pendiente | Camiseta en color negro |
 | Primera equipación |    Pendiente   |   Pendiente | Camiseta y medias azules, pantalón Blanco |
 | Segunda equipación |    Pendiente  |  Pendiente  | Pendiente |
-
+| Portero nº 1 |    Pendiente  |  Pendiente  | Pendiente |
+| Portero nº 13 |    Pendiente  |  Pendiente  | Pendiente |
