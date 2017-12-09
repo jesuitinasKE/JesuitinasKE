@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  /assets/images/2017_11_logo_jesuitinas_ss.jpg
+cover:  /assets/images/2017_12_09_logo_jesuitinas_ss.jpg
 
 navigation: True
 title: Jesuitinas San Sebastian
