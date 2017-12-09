@@ -14,15 +14,14 @@ categories: ghost
 ---
 
 
-<h1>Listado de empresas Patrocinadoras y Colaboradoras con Jesutinas KE</h1>
+<h2>Listado de empresas Patrocinadoras y Colaboradoras con Jesutinas KE</h2>
 
 "Gracias a todas ellas por ayudarnos a realizar un sueńo"
 
 <table>
 <tr>
-  <td><strong>Curso</strong></td>
-  <td><strong>Horas</strong></td>
-  <td><strong>Horario</strong></td>
+  <td><strong>Empresa</strong></td>
+  <td><strong>Web</strong></td>
 </tr>
  
 <tr>
