@@ -13,4 +13,11 @@ author: Txema
 categories: ghost
 ---
 
-bla bla bla, contamos el tema de las equipaciones y otros elementos
+Gracias a la colaboración de Patrocinadores colaboradores y padres hemos realizado unas equipaciones necesarias para poder competir.
+
+| Equipación   |      Foto delantera      |  Foto trasera |  Notas |
+|----------|-------------|------|
+| Entrenamiento |  Pendiente | Pendiente | Camiseta en color negro |
+| Primera equipación |    Pendiente   |   Pendiente | Camiseta y medias azules, pantalón Blanco |
+| Segunda equipación |    Pendiente  |  Pendiente  | Pendiente |
+
