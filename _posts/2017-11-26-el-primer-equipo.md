@@ -24,7 +24,7 @@ Estos son algunos datos del equipo
 | Fecha de nacimiento|  2008 | El seno del equipo lo conforman 15 niñ@s de 2008 y un niño de 2010 |
 | Tipología |    Mixto   |   Conformado por 15 niños y una niña|
 | Objetivo |    ¡ Ganar !   |   Ganar amigos, ganar experiencia, ganar recuerdos, aprender, divertirse. |
-| Próximo paso |    Entrenar  |   Entrenar divirtiendonos |
+| Próximo paso |    Entrenar  |   Entrenar divirtiéndonos |
 | Siguiente paso |    Jugar  |   Jugar y conocer otros niños |
 | 23-12-2017 |    Experiencia  |   <a href="http://jesuitinaske.com/azpeitia-cup">Vamos a jugar el primer torneo</a> |
 | 01-07-2018 |    Mas!!!  |   <a href="http://www.donosticup.com/">Donosti Cup 2018</a> |
