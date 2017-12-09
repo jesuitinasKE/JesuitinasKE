@@ -14,3 +14,12 @@ categories: ghost
 ---
 
 El primer equipo nace de la ilusión de unos niñ@s, padres y madres de Jesuitinas Donostia, cuyo objetivo principal es presentarse al torneo Donosti Cup que se celebra en Donostia San Sebastian.
+
+El equipo empieza a coger forma, inicialmente se comenzó con la ilusión de un pequeño grupo de niñ@s que se ha ido ampliando hasta los actuales 16 niñ@s.
+
+Estos son algunos datos del equipo
+
+| Información   |      Datos      |  Notas |
+|----------|-------------|------|
+| Fecha de nacimiento|  2008 | El seno del equipo lo conforman 15 niñ@s del año 2008 y un niño del año 2010 |
+| Tipología |    Mixto   |   Conformado por 15 niños y una niña|
