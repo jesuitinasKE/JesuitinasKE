@@ -22,7 +22,7 @@ categories: ghost
 
 | Empresa   |      Web      |
 |-----------|:-------------:|
-| ![TAG](/assets/images/2017_11_tag.jpg) |  <a href="http://www.troquelestag.com/es/inicio">TAG Troqueles Artes Gráficas</a> |
-| ![DadoGES](/assets/images/2017_12_09_dadoges.jpg) |    <a href="http://www.dadoges.com/default.html">DadoGES</a>   |
-| <a href="http://www.jesuitinasdonostia.com/"><img src="/assets/images/2017_11_logo_jesuitinas_ss.jpg" alt="marketplace"></a> |    <a href="http://www.dadoges.com/default.html">DadoGES</a>   |
+| <a href="http://www.troquelestag.com/es/iniciol"><img src="/assets/images/2017_11_tag.jpg" alt="marketplace"></a> | Colabora con las equipaciones y con la inscripciónen la Donosti Cup 2018. Gracias.  |
+| <a href="http://www.dadoges.com/default.html"><img src="/assets/images/2017_12_09_dadoges.jpg" alt="marketplace"></a> | Colabora economicamente. Gracias.  |
+| <a href="http://www.jesuitinasdonostia.com/"><img src="/assets/images/2017_11_logo_jesuitinas_ss.jpg" alt="marketplace"></a> | Colabora con sus instalaciones deportivas. Gracias.  |
 
