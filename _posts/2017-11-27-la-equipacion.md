@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  /assets/images/2017_12_09_equicacion1.jpg
+cover:  /assets/images/2017_12_09_equipacion1.jpg
 
 navigation: True
 title: Equipaciones oficiales y de entrenamiento
