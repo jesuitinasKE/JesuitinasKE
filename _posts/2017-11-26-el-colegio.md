@@ -13,6 +13,10 @@ author: Txema
 categories: ghost
 ---
 
+
+
+
+
 El  Colegio Ntra.Sra,de Aranzazu—Hijas de Jesús  está en San Sebastián, en lo alto del barrio de Ayete:
 en C/ Alto  de Errondo 121—  Tf.  943 212307
 
