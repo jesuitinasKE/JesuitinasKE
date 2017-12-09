@@ -24,4 +24,5 @@ categories: ghost
 |-----------|:-------------:|
 | ![TAG](/assets/images/2017_11_tag.jpg) |  <a href="http://www.troquelestag.com/es/inicio">TAG Troqueles Artes Gráficas</a> |
 | ![DadoGES](/assets/images/2017_12_09_dadoges.jpg) |    <a href="http://www.dadoges.com/default.html">DadoGES</a>   |
+| <a href="http://www.jesuitinasdonostia.com/"><img src="/assets/images/2017_11_logo_jesuitinas_ss.jpg" alt="marketplace"></a> |    <a href="http://www.dadoges.com/default.html">DadoGES</a>   |
 
