@@ -39,8 +39,8 @@ categories: ghost
 
 </table>
 
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+| Empresa   |      Web      |
+|-----------|:-------------:|
+| ![TAG](/assets/images/2017_11_tag.jpg) |  <p> <a href="http://www.troquelestag.com/es/inicio">TAG Troqueles Artes Gráficas</a></p> |
+| col 2 is |    centered   |
+| col 3 is | right-aligned |
