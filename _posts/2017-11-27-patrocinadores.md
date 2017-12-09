@@ -18,6 +18,9 @@ categories: ghost
 
 "Gracias a todas ellas por ayudarnos a realizar un sueño"
 
+La próxima edición de DONOSTI CUP 2018 nos espera con los brazos abiertos. Esto es posible gracias a los patrocinadores y colaboradores.
+
+Para todo ellos queremos hacer un homenaje con esta sección.
 
 
 | Empresa   |      Web      |
