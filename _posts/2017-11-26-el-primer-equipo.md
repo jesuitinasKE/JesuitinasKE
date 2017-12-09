@@ -5,7 +5,7 @@ cover:  /assets/images/6D117270-EA9D-4668-BE5A-022FF122CE11.jpeg
 
 navigation: True
 title: "We have a dream"
-date: 2022-11-26 10:00:00
+date: 2030-12-31 10:00:00
 tags: [Equipo v1.0]
 class: post-template
 subclass: 'post tag-getting-started'
