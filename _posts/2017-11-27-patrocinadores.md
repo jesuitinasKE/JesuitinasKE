@@ -16,7 +16,7 @@ categories: ghost
 
 <h2>Listado de empresas Patrocinadoras y Colaboradoras con Jesutinas KE</h2>
 
-"Gracias a todas ellas por ayudarnos a realizar un sueńo"
+"Gracias a todas ellas por ayudarnos a realizar un sueño"
 
 <table>
 <tr>
@@ -25,15 +25,16 @@ categories: ghost
 </tr>
  
 <tr>
-  <td>LOGO</td>  
+  <td>![TAG](/assets/images/2017_11_tag.jpg)</td>  
   <td><p> <a href="http://www.troquelestag.com/es/inicio">TAG Troqueles Artes Gráficas</a></p></td>
 
 </tr>
  
 <tr>
-  <td>LOGO</td>
+  <td>![DadoGES](/assets/images/2017_12_09_dadoges.jpg)</td>  
   <td><p> <a href="http://www.dadoges.com/default.html">DadoGES</a></p></td>
-
+	
+ 
 </tr>
 
 </table>
