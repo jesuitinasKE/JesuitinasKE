@@ -18,29 +18,10 @@ categories: ghost
 
 "Gracias a todas ellas por ayudarnos a realizar un sueño"
 
-<table>
-<tr>
-  <td><strong>Empresa</strong></td>
-  <td><strong>Web</strong></td>
-</tr>
- 
-<tr>
-  <td>![TAG](/assets/images/2017_11_tag.jpg)</td>  
-  <td><p> <a href="http://www.troquelestag.com/es/inicio">TAG Troqueles Artes Gráficas</a></p></td>
 
-</tr>
- 
-<tr>
-  <td>![DadoGES](/assets/images/2017_12_09_dadoges.jpg)</td>  
-  <td><p> <a href="http://www.dadoges.com/default.html">DadoGES</a></p></td>
-	
- 
-</tr>
-
-</table>
 
 | Empresa   |      Web      |
 |-----------|:-------------:|
-| ![TAG](/assets/images/2017_11_tag.jpg) |  <p> <a href="http://www.troquelestag.com/es/inicio">TAG Troqueles Artes Gráficas</a></p> |
-| col 2 is |    centered   |
-| col 3 is | right-aligned |
+| ![TAG](/assets/images/2017_11_tag.jpg) |  <a href="http://www.troquelestag.com/es/inicio">TAG Troqueles Artes Gráficas</a> |
+| ![DadoGES](/assets/images/2017_12_09_dadoges.jpg) |    <a href="http://www.dadoges.com/default.html">DadoGES</a>   |
+
