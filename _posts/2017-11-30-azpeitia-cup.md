@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  /assets/images/2017_12_01_Cartel.jpg
+cover:  /assets/images/2017_12_10_CartelAzpeitiaCup.jpg
 
 navigation: True
 title: Torneo de la Amistad
