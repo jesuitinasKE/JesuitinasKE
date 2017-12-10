@@ -15,10 +15,12 @@ categories: ghost
 
 Troqueles TAG patrocinador oficial de JesuitinasKE.
 
-Referente en la producción de troqueles con más de 25 años de trayectoria que nos respaldan
+Referente en la producción de troqueles con más de 25 años de trayectoria que nos respaldan.
+
 En TAG producimos troqueles y complementos de alta calidad para la industria gráfica, los fabricantes de cajas de cartón y transformadores de plástico en general. La colaboración con nuestros clientes, unida a la innovación y al rigor técnico, han hecho de nuestra empresa un referente y una garantía de calidad y saber hacer.
 
 Galardonada en el 2017:
+
 MARIAN SIERRA-EMPRESARIA DEL AÑO
 
 Marian Sierra, gerente y directora, ha sido premiada por ASPEGI como EMPRESARIA DEL AÑO 2017. Premio otorgado por su labor destacada en el ámbito empresarial y profesional.
