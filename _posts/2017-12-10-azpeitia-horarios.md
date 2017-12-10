@@ -27,10 +27,10 @@ Estos son los horarios del torneo:
 | 09:00 |  Reunión Parking de URBIL |  Quedamos en Urbil con destino a Azpeitia. |
 | 11:00 |  LAGUN ONAK C - JESUITINAS |  El primer partido, de visitantes. Duración 25' |
 | 12:00 |  Hamaiketako |  A recuperar fuerzas!!! |
-| 12:30 |  JESUITINAS - ABADIÑO |   Duración 25' |
+| 12:30 |  JESUITINAS - ABADIÑO |  Jugamos de locales Duración 25' |
 | 13:00 |  A comer |   A los niñ@s les da de comer la organización |
 | 16:30 |  La merienda |  Bocata de toda la vida, recomendación del PRESI. |
-| 17:00 |  JESUITINAS - SOLARES |  Duración 25' |
+| 17:00 |  JESUITINAS - SOLARES |  Jugamos de locales Duración 25' |
 | 19:00 |  Piscolabis |  Algo de fruta antes del partido |
-| 19:30 |  JESUITINAS - LENGOKOAK B |  Duración 25' |
+| 19:30 |  JESUITINAS - LENGOKOAK B | Jugamos de locales Duración 25' |
 | 20:00 |  A las duchas !! |  Nos vamos a casa campeones!!! |
