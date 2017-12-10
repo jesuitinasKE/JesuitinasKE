@@ -18,7 +18,7 @@ Gracias a la colaboración de Patrocinadores colaboradores y padres hemos realiz
 | Equipación   |      Foto      |    Notas |
 |----------|-------------|------|
 | Entrenamiento |  Pendiente |  Camiseta en color negro |
-| Primera equipación |    ![Primera equipacion](/assets/images/2017_12_09_equipacion1.JPG)   |    Camiseta y medias azules, pantalón Blanco |
+| Primera equipación |    ![Primera equipacion](/assets/images/Tag.jpg)   |    Camiseta y medias azules, pantalón Blanco |
 | Segunda equipación |    Pendiente  |   Pendiente |
 | Portero nº 1 |     ![Primera equipacion](/assets/images/PorteroAmarillaTag.jpg)   |   Equipación negra y amarilla |
 | Portero nº 13 |    ![Primera equipacion](/assets/images/PorteroVerdeTag.jpg)   |   Equipación verde y negra |
