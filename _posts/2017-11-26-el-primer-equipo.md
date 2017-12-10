@@ -21,7 +21,7 @@ Estos son algunos datos del equipo
 
 | Información   |      Datos      |  Notas |
 |----------|-------------|------|
-| Fecha de nacimiento|  2008 | El equipo lo forman 15 niñ@s |
+| Fecha de nacimiento|  2008 | El equipo lo forman 16 niñ@s |
 | Tipología |    Mixto   |   Conformado por 15 niños y una niña|
 | Objetivo |    ¡ Ganar !   |   Ganar amigos, experiencias, recuerdos, aprender. |
 | Próximo paso |    Entrenar  |   Entrenar divirtiéndonos |
