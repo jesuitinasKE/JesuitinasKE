@@ -21,4 +21,4 @@ Gracias a la colaboración de Patrocinadores colaboradores y padres hemos realiz
 | Primera equipación |    ![Primera equipacion](/assets/images/2017_12_09_equipacion1.JPG)   |    Camiseta y medias azules, pantalón Blanco |
 | Segunda equipación |    Pendiente  |   Pendiente |
 | Portero nº 1 |     ![Primera equipacion](/assets/images/PorteroAmarillaTag.jpg)   |   Equipación negra y amarilla |
-| Portero nº 13 |    ![Primera equipacion](/assets/images/2017_12_09_equipacion_p13.JPG)   |   Equipación verde y negra |
+| Portero nº 13 |    ![Primera equipacion](/assets/images/PorteroVerdeTag.jpg)   |   Equipación verde y negra |
