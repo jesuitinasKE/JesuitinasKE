@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  /assets/images/2017_11_tag.jpg
+cover:  /assets/images/20171210_TAGportada.jpg
 
 navigation: True
 title: Troqueles TAG
@@ -13,11 +13,18 @@ author: Angel
 categories: ghost
 ---
 
-TAG patrocinador oficial de Jesuitinas-KE.
+Troqueles TAG patrocinador oficial de JesuitinasKE.
 
-Galardonada en el 2017 
+Referente en la producción de troqueles con más de 25 años de trayectoria que nos respaldan
+En TAG producimos troqueles y complementos de alta calidad para la industria gráfica, los fabricantes de cajas de cartón y transformadores de plástico en general. La colaboración con nuestros clientes, unida a la innovación y al rigor técnico, han hecho de nuestra empresa un referente y una garantía de calidad y saber hacer.
 
-Referente en la producción de troqueles con más de 25 años de trayectoria.
+Galardonada en el 2017:
+MARIAN SIERRA-EMPRESARIA DEL AÑO 2017
+
+Marian Sierra, gerente y directora, ha sido premiada por ASPEGI como EMPRESARIA DEL AÑO 2017. Premio otorgado por su labor destacada en el ámbito empresarial y profesional.
+
+Su carácter innovador y estratégico junto al empleo y riqueza generados por TAG han hecho posible este premio que tanto merece.
+
 
 
 <p> <a href="http://www.troquelestag.com/es/inicio">TAG Troqueles Artes Gráficas</a></p>
