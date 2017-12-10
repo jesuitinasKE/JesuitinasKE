@@ -5,7 +5,7 @@ cover:  /assets/images/20171210_TAGportada.jpg
 
 navigation: True
 title: Troqueles TAG
-date: 2017-12-10 10:00:00
+date: 2017-12-11 10:00:00
 tags: [Patrocinador Oficial]
 class: post-template
 subclass: 'post tag-getting-started'
