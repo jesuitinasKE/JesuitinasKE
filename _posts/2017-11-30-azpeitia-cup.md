@@ -18,8 +18,7 @@ Azpeitia Cup, un torneo de fútbol base de primer nivel donde se reunen las mejo
 El torneo alevín masculino se divide en dos fases. Una primera Fase Clasificatoria que se suele jugar a finales de año y que agrupa a los equipos alevines del territorio. Los cuatro mejores equipos pasan a la Fase Final, que se disputa a mediados de Junio y donde podrán medirse a las mejores canteras del fútbol profesional actual como el Barcelona, Real Madrid, Espanyol, Valencia, Ath. de Bilbao, At. Madrid, Sevilla, etc.
 
 
-Cuando quedan solamente 3 días para poder apuntarse a la Fase Clasificatoria, la lista de clubs sigue aumentando y ayer mismo fueron otros 3 equipos de fútbol los que se inscribieron para el torneo, el Barrika, el Kostkas y el Real Unión de Irun. Con estos ya se supera la barrera de los 40 equipos inscritos para la Fase Clasificatoria.
-
+Ya se ha cerrado el plazo para poder inscribirse en la Fase Clasificatoria del torneo Azpeitia Cup 2018.
 
 ![JesuitinasKE Azpeitia Cup](/assets/images/2017-11-30-fase-clasificacion-azpeitia-18.jpg)
 
