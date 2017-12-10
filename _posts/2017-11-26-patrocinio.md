@@ -27,6 +27,14 @@ Marian Sierra, gerente y directora, ha sido premiada por ASPEGI como EMPRESARIA 
 
 Su carácter innovador y estratégico junto al empleo y riqueza generados por TAG han hecho posible este premio que tanto merece.
 
+TAG VOLCADO CON EL DEPORTE
+
+Otro año más, 6º año consecutivo, TAG ha participado en la Carrera de Empresas Guipuzcoanas.
+Como ya es habitual 2 equipos de 4 integrantes recorrieron las calles de San Sebastian realizando una gran actuación deportiva y de equipo.
+Este año además de disfrutar del gran ambiente se han mejorado los resultados, objetivo de TAG en todos sus ámbitos.
+
+¡Nos vemos el año que viene campeones! ZORIONAK!! ¡¡FELICIDADES!!
+                                              
 
 
 <p> <a href="http://www.troquelestag.com/es/inicio">TAG Troqueles Artes Gráficas</a></p>
