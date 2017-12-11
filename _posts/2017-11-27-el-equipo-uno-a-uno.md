@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-#cover:  /assets/images/20171211_Equipo.jpg
+cover:  /assets/images/20171211_Equipo.jpg
 
 navigation: True
 title: El equipo uno a uno
