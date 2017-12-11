@@ -5,7 +5,7 @@ cover:  /assets/images/20171211_Equipo.jpg
 
 navigation: True
 title: El equipo uno a uno
-date: 2017-12-09 10:00:00
+date: 2017-12-09 12:00:00
 tags: [El Equipo]
 class: post-template
 subclass: 'post tag-getting-started'
