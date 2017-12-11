@@ -17,6 +17,7 @@ Homenaje a todos los integrantes del equipo que son el alma del proyecto.
 
 L@s niñ@s
 
+
 | PORTEROS   |
 | Foto   |   Jugador   |   Dorsal   |   Fecha de nacimiento |
 |----------|-------------|------|------|
