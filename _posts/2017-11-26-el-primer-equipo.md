@@ -6,7 +6,7 @@ cover:  /assets/images/20171212_Medalla2.jpg
 navigation: True
 title: "We have a dream"
 date: 2030-12-31 10:00:00
-tags: [Equipo v1.0]
+#tags: [Equipo v1.0]
 class: post-template
 subclass: 'post tag-getting-started'
 author: Txema / Angel
