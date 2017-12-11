@@ -15,6 +15,7 @@ categories: ghost
 
 El equipo nace de la ilusión de Padres/Madres/Niñ@s para unificar el deporte con la amistad, el objetivo principal es presentarse al torneo "Donosti Cup 2018" que se celebra en Donostia San Sebastian.
 
+
 El equipo empieza a coger forma, inicialmente comenzó con la ilusión de un pequeño grupo de niñ@s que se ha ido ampliando hasta los actuales 16 niñ@s.
 
 Estos son algunos datos del equipo
