@@ -5,7 +5,7 @@ cover:  /assets/images/Equipaciones.jpg
 
 navigation: True
 title: Equipaciones oficiales y de entrenamiento
-date: 2017-12-09 10:00:00
+date: 2017-12-08 10:00:00
 tags: [La equipación]
 class: post-template
 subclass: 'post tag-getting-started'
