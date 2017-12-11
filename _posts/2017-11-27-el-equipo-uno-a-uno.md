@@ -28,5 +28,14 @@ L@s niñ@s
 |----------|-------------|------|------|
 | Pendiente |   Iker Pellejero Minchole   |  3  |  07/06/2008  |
 | Pendiente |   Santiago Toledano Cabasés   |  4  |  30/12/2008  |
-
-
+| Pendiente |  Jon Múgica Miranda    |  5  |  10/06/2008  |
+| Pendiente |  Juan Gordillo Alday    |  7  |  21/11/2008  |
+| Pendiente |  María Azurza Liceaga    |  8  |  30/06/2008  |
+| Pendiente |  Telmo Gaztelu Iturrizaga    |  9  | 15/04/2008  |
+| Pendiente |  Alain Clemente Azurmendi    |  10  |  23/8/2008  |
+| Pendiente |   Iñigo Jimenez de Laiglesia Bengoechea   |  13  |  04/08/2008  |
+| Pendiente |  Telmo Azurza Liceaga    |  16  |  30/06/2008  |
+| Pendiente |  Hugo Pellejero Minchole    |  18  |  21/12/2010  |
+| Pendiente |  Asier Gordo Pérez     |  19  |  14/11/2008  |
+| Pendiente |  Ander Rosa García     |  20  |  19/05/2008  |
+| Pendiente |  Markel García Gago   |  21  |  24/7/2008  |
