@@ -13,16 +13,20 @@ author: Txema
 categories: ghost
 ---
 
-La idea es hacer un homenaje a todos los integrantes del equipo que son el alma del proyecto. L@s niñ@s
+La idea es hacer un homenaje a todos los integrantes del equipo que son el alma del proyecto. 
 
-|    ![Primera equipacion](/assets/images/20171211_CamisetaEntrenamiento.jpg)   |
-|     |
-|     |
+L@s niñ@s
 
-| Dorsal   |   Jugador   |      Foto      |    Notas |
-|----------|-------------|------|
-| Entrenamiento |    ![Primera equipacion](/assets/images/20171211_CamisetaEntrenamiento.jpg)   |  Camiseta en color negro |
-| Primera equipación |    ![Primera equipacion](/assets/images/Tag.jpg)   |    Camiseta y medias azules, pantalón Blanco |
-| Segunda equipación |    Pendiente  |   Pendiente |
-| Portero nº 1 |     ![Primera equipacion](/assets/images/PorteroAmarillaTag.jpg)   |   Equipación negra y amarilla |
-| Portero nº 13 |    ![Primera equipacion](/assets/images/PorteroVerdeTag.jpg)   |   Equipación verde y negra |
+| PORTEROS   |
+| Foto   |   Jugador   |   Dorsal   |   Fecha de nacimiento |
+|----------|-------------|------|------|
+| Pendiente |   Iñigo Rodriguez Reyes   |  1  |  10/11/2008  |
+| Pendiente |   Iñigo Jimenez de Laiglesia Bengoechea   |  13  |  04/08/2008  |
+
+| JUGADORES DE CAMPO   |
+| Foto   |   Jugador   |   Dorsal   |   Fecha de nacimiento |
+|----------|-------------|------|------|
+| Pendiente |   Iker Pellejero Minchole   |  3  |  07/06/2008  |
+| Pendiente |   Santiago Toledano Cabasés   |  4  |  30/12/2008  |
+
+
