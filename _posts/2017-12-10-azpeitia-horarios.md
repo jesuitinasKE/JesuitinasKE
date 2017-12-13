@@ -5,7 +5,7 @@ cover:  /assets/images/2017_12_09_horarios.JPG
 
 navigation: True
 title: Horarios del Torneo
-date: 2017-12-10 11:00:00
+date: 2017-12-11 11:00:00
 tags: [Azpeitia Cup]
 class: post-template
 subclass: 'post tag-getting-started'
@@ -36,5 +36,5 @@ Estos son los horarios del torneo:
 | 20:00 |  A las duchas !! |  Nos vamos a casa campeones!!! |
 
 
-<p><a href="http://www.jesuitinasdonostia.com/"><img src="/assets/images/8D96EB30-40FE-450F-8DFD-852F8E816F5D.jpeg" alt="marketplace"></a></p>
-/assets/images/8D96EB30-40FE-450F-8DFD-852F8E816F5D.jpeg
+<p><a src="/assets/images/8D96EB30-40FE-450F-8DFD-852F8E816F5D.jpeg" alt="marketplace"></a></p>
+
