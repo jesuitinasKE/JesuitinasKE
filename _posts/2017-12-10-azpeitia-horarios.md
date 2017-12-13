@@ -38,3 +38,4 @@ Estos son los horarios del torneo:
 
 <p><a href="http://www.jesuitinasdonostia.com/"><img src="/assets/images/8D96EB30-40FE-450F-8DFD-852F8E816F5D.jpeg" alt="marketplace"></a></p>
 
+![JesuitinasKE Azpeitia Cup](/assets/images/2017-11-30-fase-clasificacion-azpeitia-18.jpg)
