@@ -35,7 +35,6 @@ Estos son los horarios del torneo:
 | 19:30 |  JESUITINAS - LENGOKOAK B | Jugamos de locales Duración 25' |
 | 20:00 |  A las duchas !! |  Nos vamos a casa campeones!!! |
 
-
-<p><a href="http://www.jesuitinasdonostia.com/"><img src="/assets/images/8D96EB30-40FE-450F-8DFD-852F8E816F5D.jpeg" alt="marketplace"></a></p>
+Programacion confirmada:
 
 ![JesuitinasKE Azpeitia Cup](/assets/images/8D96EB30-40FE-450F-8DFD-852F8E816F5D.jpeg)
