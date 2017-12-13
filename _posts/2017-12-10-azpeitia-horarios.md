@@ -34,3 +34,6 @@ Estos son los horarios del torneo:
 | 19:00 |  Piscolabis |  Algo de fruta antes del partido |
 | 19:30 |  JESUITINAS - LENGOKOAK B | Jugamos de locales Duración 25' |
 | 20:00 |  A las duchas !! |  Nos vamos a casa campeones!!! |
+
+
+/assets/images/8D96EB30-40FE-450F-8DFD-852F8E816F5D.jpeg
