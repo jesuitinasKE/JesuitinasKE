@@ -37,4 +37,4 @@ Estos son los horarios del torneo:
 
 
 <p><a href="http://www.jesuitinasdonostia.com/"><img src="/assets/images/8D96EB30-40FE-450F-8DFD-852F8E816F5D.jpeg" alt="marketplace"></a></p>
-(/assets/images/8D96EB30-40FE-450F-8DFD-852F8E816F5D.jpeg)
+/assets/images/8D96EB30-40FE-450F-8DFD-852F8E816F5D.jpeg
