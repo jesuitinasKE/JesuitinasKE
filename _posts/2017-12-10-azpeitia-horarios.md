@@ -36,5 +36,5 @@ Estos son los horarios del torneo:
 | 20:00 |  A las duchas !! |  Nos vamos a casa campeones!!! |
 
 
-<p><a src="/assets/images/8D96EB30-40FE-450F-8DFD-852F8E816F5D.jpeg" alt="marketplace"></a></p>
+<p><a href="http://www.jesuitinasdonostia.com/"><img src="/assets/images/8D96EB30-40FE-450F-8DFD-852F8E816F5D.jpeg" alt="marketplace"></a></p>
 
