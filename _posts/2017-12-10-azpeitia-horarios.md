@@ -31,9 +31,9 @@ Estos son los horarios del torneo:
 | 13:00 |  A comer |   A los niñ@s les da de comer la organización |
 | 16:30 |  La merienda |  Bocata de toda la vida, recomendación del PRESI. |
 | 17:00 |  JESUITINAS - SOLARES |  Jugamos de locales Duración 25' |
-| 19:00 |  Piscolabis |  Algo de fruta antes del partido |
-| 19:30 |  JESUITINAS - LENGOKOAK B | Jugamos de locales Duración 25' |
-| 20:00 |  A las duchas !! |  Nos vamos a casa campeones!!! |
+| 18:30 |  Piscolabis |  Algo de fruta antes del partido |
+| 19:00 |  JESUITINAS - LENGOKOAK B | Jugamos de locales Duración 25' |
+| 19:30 |  A las duchas !! |  Nos vamos a casa campeones!!! |
 
 Programacion confirmada:
 
