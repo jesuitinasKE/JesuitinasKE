@@ -29,6 +29,7 @@ Estos son los horarios del torneo:
 | 12:00 |  Hamaiketako |  A recuperar fuerzas!!! |
 | 12:30 |  JESUITINAS - ABADIÑO |  Jugamos de locales Duración 25' |
 | 13:00 |  A comer |   A los niñ@s les da de comer la organización |
+| 13:00 |  LIGA SANTANDER |   Partido REAL MADRID - BARÇA |
 | 16:30 |  La merienda |  Bocata de toda la vida, recomendación del PRESI. |
 | 17:00 |  JESUITINAS - SOLARES |  Jugamos de locales Duración 25' |
 | 18:30 |  Piscolabis |  Algo de fruta antes del partido |
