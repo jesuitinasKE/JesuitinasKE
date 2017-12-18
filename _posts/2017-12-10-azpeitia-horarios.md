@@ -24,7 +24,7 @@ Estos son los horarios del torneo:
 | Horario   |      Hito      |    Notas |
 |----------|-------------|------|
 | 08:00 |  Desayuno |  Necesitamos un desayuno potente, la jornada será larga. |
-| 09:00 |  Reunión Parking de URBIL |  Quedamos en Urbil con destino a Azpeitia. |
+| 09:00 |  Reunión Parking de ARITZETA |  Quedamos en Urbil con destino a Azpeitia. |
 | 11:00 |  LAGUN ONAK C - JESUITINAS |  El primer partido, de visitantes. Duración 25' |
 | 12:00 |  Hamaiketako |  A recuperar fuerzas!!! |
 | 12:30 |  JESUITINAS - ABADIÑO |  Jugamos de locales Duración 25' |
