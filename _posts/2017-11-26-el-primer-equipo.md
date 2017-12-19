@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  /assets/images/20171212_Medalla2.jpg
+cover:  /assets/images/20171219_FotoEquipo.JPG
 
 navigation: True
 title: "We have a dream"
