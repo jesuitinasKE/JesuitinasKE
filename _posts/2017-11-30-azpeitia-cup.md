@@ -18,7 +18,8 @@ Pese a jugar contra equipos de 1 año más e incluso 2, nuestros jugadores han r
 Los goles conseguidos han sido de gran belleza, pero sobre todo valorar el esfuerzo de todos y cada uno de nuestros jugadores.
 "ORGULLOSOS DE TODOS Y CADA UNO DE ELLOS"
 
-![JesuitinasKE Azpeitia Cup](/assets/images/2017_12_10_CartelAzpeitiaCup.jpg)
+![JesuitinasKE Azpeitia Cup](/assets/images/20171228_Entranador1.JPG)
+![JesuitinasKE Azpeitia Cup](/assets/images/20171228_Entranador2.JPG)
 
 Azpeitia Cup, un torneo de fútbol base de primer nivel donde se reunen las mejores canteras del fútbol, un único lugar donde disfrutar del fútbol al máximo nivel.
 
