@@ -33,4 +33,31 @@ Ya se ha cerrado el plazo para poder inscribirse en la Fase Clasificatoria del t
 
 Jesuitinas KE es uno de los equipos que se presenta este año al campeonato de Azpeitia Cup 2018.
 
+Azpeitia Cup, Horarios del Torneo
+
+El dia 23 de Diciembre de 2017, jugamos el primer torneo, la Azpeitia Cup. 
+
+Estos son los horarios del torneo:
+
+
+
+| Horario   |      Hito      |    Notas |
+|----------|-------------|------|
+| 08:00 |  Desayuno |  Necesitamos un desayuno potente, la jornada será larga. |
+| 09:00 |  Reunión Parking de ARITZETA |  Quedamos en ARITZETA con destino a Azpeitia. |
+| 11:00 |  LAGUN ONAK C - JESUITINAS |  El primer partido, de visitantes. Duración 25' |
+| 12:00 |  Hamaiketako |  A recuperar fuerzas!!! |
+| 12:30 |  JESUITINAS - ABADIÑO |  Jugamos de locales Duración 25' |
+| 13:00 |  A comer |   A los niñ@s les da de comer la organización |
+| 13:00 |  LIGA SANTANDER |   Partido REAL MADRID - BARÇA |
+| 16:30 |  La merienda |  Bocata de toda la vida, recomendación del PRESI. |
+| 17:00 |  JESUITINAS - SOLARES |  Jugamos de locales Duración 25' |
+| 18:30 |  Piscolabis |  Algo de fruta antes del partido |
+| 19:00 |  JESUITINAS - LENGOKOAK B | Jugamos de locales Duración 25' |
+| 19:30 |  A las duchas !! |  Nos vamos a casa campeones!!! |
+
+Programacion confirmada:
+
+![JesuitinasKE Azpeitia Cup](/assets/images/8D96EB30-40FE-450F-8DFD-852F8E816F5D.jpeg)
+
 <p> <a href="https://www.azpeitiacup.com/es/">Azpeitia CUP</a></p>
