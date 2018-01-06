@@ -4,7 +4,7 @@ current: post
 cover:  /assets/images/20171228_FotoGrupoAzpeitia.JPG
 
 navigation: True
-title: Torneo de la Amistad
+title: Torneo de la Amistad "Azpeitia Cup"
 date: 2017-12-28 10:01:00
 tags: [Azpeitia Cup]
 class: post-template
