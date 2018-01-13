@@ -34,6 +34,7 @@ subscribers: True # you need to connect an external service for this to work,
 # by editing `_includes/subscribe-form.html`
 twitter: jesuitinaske # replace by your username
 facebook: /jesuitinas.ke.1 # replace by your username
+instagram: jesuitinaske
 
 # Disqus
 disqus: False
