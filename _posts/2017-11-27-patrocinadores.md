@@ -14,7 +14,6 @@ categories: ghost
 ---
 
 
-<h2>Listado de empresas Patrocinadoras y Colaboradoras con Jesutinas KE</h2>
 
 "Gracias TAG y Suministros Aguado por ayudarnos a realizar un sueño"
 
