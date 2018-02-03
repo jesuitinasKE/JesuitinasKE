@@ -5,7 +5,7 @@ cover:  /assets/images/2017-12-09-colaborando_en_equipo.jpg
 
 navigation: True
 title: Patrocinadores y Colaboradores
-date: 2017-12-07 10:00:00
+date: 2018-02-03 10:00:00
 tags: [Patrocinadores]
 class: post-template
 subclass: 'post tag-getting-started'
@@ -16,7 +16,7 @@ categories: ghost
 
 <h2>Listado de empresas Patrocinadoras y Colaboradoras con Jesutinas KE</h2>
 
-"Gracias a todas ellas por ayudarnos a realizar un sueño"
+"Gracias TAG y Suministros Aguado por ayudarnos a realizar un sueño"
 
 La próxima edición de DONOSTI CUP 2018 nos espera con los brazos abiertos. Esto es posible gracias a los patrocinadores y colaboradores.
 
