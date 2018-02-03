@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  /assets/images/2017-12-09-colaborando_en_equipo.jpg
+cover:  /assets/images/2018_02_03_Patrocinadores.jpg
 
 navigation: True
 title: Patrocinadores y Colaboradores
