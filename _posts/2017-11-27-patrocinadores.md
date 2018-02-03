@@ -26,6 +26,6 @@ Para todo ellos queremos hacer un homenaje con esta sección.
 | Empresa   |      Web      |
 |-----------|---------------|
 | <a href="http://www.troquelestag.com/es/inicio"><img src="/assets/images/2017_11_tag.jpg" alt="marketplace"></a> | Colabora con las equipaciones y con la inscripción en la Donosti Cup 2018. Gracias.  |
-| <a href="http://suministrosaguado.com//default.html"><img src="/assets/images/2017_12_09_dadoges.jpg" alt="marketplace"></a> | Colabora economicamente. Gracias.  |
+| <a href="http://suministrosaguado.com//default.html"><img src="/assets/images/2018_02_03_AGUADO.jpg" alt="marketplace"></a> | Colabora con las equipaciones economicamente. Gracias.  |
 | <a href="http://www.jesuitinasdonostia.com/"><img src="/assets/images/2017_11_logo_jesuitinas_ss.jpg" alt="marketplace"></a> | Colabora con sus instalaciones deportivas. Gracias.  |
 
