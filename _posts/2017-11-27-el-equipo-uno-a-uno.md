@@ -36,7 +36,7 @@ L@s niñ@s
 | Pendiente |  Alain Clemente Azurmendi    |  10  |  23/8/2008  |
 | Pendiente |   Iñigo Jimenez de Laiglesia Bengoechea   |  13  |  04/08/2008  |
 | Pendiente |  Telmo Azurza Liceaga    |  16  |  30/06/2008  |
-| Pendiente |  Hugo Pellejero Minchole    |  18  |  21/12/2010  |
-| Pendiente |  Asier Gordo Pérez     |  19  |  14/11/2008  |
+| Pendiente |  
+| Pendiente |  
 | Pendiente |  Ander Rosa García     |  20  |  19/05/2008  |
 | Pendiente |  Markel García Gago   |  21  |  24/7/2008  |
